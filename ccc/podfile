@@ -1,0 +1,7 @@
+pod"AFNetworking"
+pod"SDWebImage"
+pod"MJRefresh"
+pod"Masonry"
+pod'FDFullscreenPopGesture'
+pod'socket.IO'
+pod'SocketRocket'
